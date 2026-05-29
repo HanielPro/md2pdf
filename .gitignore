@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GitHub
+.github/
+
+# Claude
+CLAUDE.md
+.claude/
+
+# Custom
+*.pdf

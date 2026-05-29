@@ -8,6 +8,8 @@ Tool to convert Markdown files to PDF using Python.
 - Install dependencies:
 
 ```bash
+python -m venv .venv 
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
